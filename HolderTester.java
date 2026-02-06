@@ -42,6 +42,5 @@ public class HolderTester
         Hold.printAll();
         
         System.out.println("");
-        Hold.Clear();
     }
 }
