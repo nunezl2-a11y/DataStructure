@@ -66,4 +66,5 @@ public class LuannaHolder
         System.out.println("Clearing Array...");
         System.out.println("Array now contains : " + size + " Values");
     }
+    //ArrayList implementation
 }
